@@ -13,8 +13,5 @@ class Main {
    
    System.out.println("Fourth Element: " + age[3]);
    System.out.println("Fifth Element: " + age[4]);
-
-
-System.out.println("Fifth Element: " + age[4]);
  }
 }
